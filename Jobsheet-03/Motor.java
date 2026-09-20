@@ -12,7 +12,7 @@ public class Motor {
             System.out.println("Mesin Off");
         }
 
-        System.out.println("Kecepatan: " + this.kecepatan);
-        System.out.println("=============================");
-    }
+        System.out.println("Kecepatan:" + this.kecepatan);
+        System.out.println("==========================");
+    }   
 }
