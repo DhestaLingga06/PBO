@@ -1,5 +1,5 @@
 package testpackage;
-
+// Percobaan 3
 public class Pegawai {
     public String nip;
     public String nama;
